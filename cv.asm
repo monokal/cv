@@ -68,6 +68,7 @@ _start:
         db "If you were expecting my full CV in a 600 byte image, think again!", 0x0A
         db 0x0A
         db "You can get the rest via:", 0x0A
+        db 0x0A
         db "    - LinkedIn: https://www.linkedin.com/in/ddmiddleton", 0x0A
         db "    - Email: d@monokal.io", 0x0A
         db 0x0A
