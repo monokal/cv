@@ -66,6 +66,8 @@ _start:
         db "around the corner and I am therefore able to offer and implement", 0x0A
         db "solutions which are a step ahead of the competition.", 0x0A
         db 0x0A
+        db "If you were expecting my full CV in Assembly you're having a laugh...", 0x0A
+        db 0x0A
     length: equ $-message            ; message length calculation
 
 ; File size calculation
