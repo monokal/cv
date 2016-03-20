@@ -65,7 +65,7 @@ _start:
         db "around the corner and I am therefore able to offer and implement", 0x0A
         db "solutions which are a step ahead of the competition.", 0x0A
         db 0x0A
-        db "If you were expecting my full CV in Assembly, think again.", 0x0A
+        db "If you were expecting my full CV in a 600 byte image, think again!", 0x0A
         db 0x0A
         db "You can get the rest via:", 0x0A
         db "    - LinkedIn: https://www.linkedin.com/in/ddmiddleton", 0x0A
