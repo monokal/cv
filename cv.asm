@@ -69,7 +69,7 @@ _start:
         db 0x0A
         db "You can get the rest via:", 0x0A
         db "    - LinkedIn: https://www.linkedin.com/in/ddmiddleton", 0x0A
-        db "    - Email:    d@monokal.io", 0x0A
+        db "    - Email: d@monokal.io", 0x0A
         db 0x0A
         db "Thanks!", 0x0A
         db 0x0A
