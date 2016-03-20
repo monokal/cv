@@ -4,6 +4,6 @@ set -e
 cd "$(dirname "$(readlink -f "$BASH_SOURCE")")"
 
 set -x
-docker build -f Dockerfile.build -t hello-world:build .
-docker run --rm hello-world:build cat hello > hello
-chmod +x hello
+docker build -f Dockerfile.build -t monokal/cv:latest .
+docker run --rm monokal/cv:build cat cv > cv
+chmod +x cv
